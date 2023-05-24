@@ -141,7 +141,8 @@ backBtn.addEventListener('click', function () {
   // btn.addEventListener('click', readCountry());
   // btn.addEventListener('click', getCountryCard);
 });
-
+////////////////////////////////////////////////////////////////////////////
+//Resovling promise with 'then'
 /*let countryName;
 readCountry()
   .then(country => {
