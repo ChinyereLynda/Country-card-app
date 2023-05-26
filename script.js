@@ -177,3 +177,6 @@ readCountry()
     console.error(`${err} ❌❌❌`);
   });
 */
+
+import 'core-js/stable';
+import 'regenerator-runtime';
