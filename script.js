@@ -1,4 +1,6 @@
 'use strict';
+// import './core-js/stable';
+// import './regenerator-runtime';
 
 const btn = document.querySelector('.btn-country');
 const backBtn = document.querySelector('.back-button');
@@ -177,6 +179,3 @@ readCountry()
     console.error(`${err} ❌❌❌`);
   });
 */
-
-import 'core-js/stable';
-import 'regenerator-runtime';

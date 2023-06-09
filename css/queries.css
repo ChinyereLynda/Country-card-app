@@ -1,0 +1,15 @@
+@media (max-width: 40em) {
+  .countries {
+    max-width: 100vw;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    margin-left: 2rem;
+  }
+
+  #input-country {
+    max-width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
